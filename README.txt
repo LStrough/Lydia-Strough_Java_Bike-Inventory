@@ -1,6 +1,7 @@
 TITLE: Bike Inventory Application (Software I, C482 PA)
 
-PURPOSE: A JavaFX GUI program that simulates an inventory management system with the ability to add, modify and delete both parts and products while also incorporating parts into products.
+PURPOSE: A JavaFX GUI program that simulates an inventory management system with the ability to add, modify and delete both parts and products 
+while also incorporating parts into products.
 
 APPLICATION VERSION & DATE: Application Version 1.0, 05/15/2022
 
