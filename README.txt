@@ -4,6 +4,8 @@ PURPOSE: A JavaFX GUI program that simulates an inventory management system with
 
 APPLICATION VERSION & DATE: Application Version 1.0, 05/15/2022
 
+AUTHOR: Lydia Strough, WGU#002452624
+
 IDE VERSION: Intellij IDEA Community Edition 2021.1.3 x64
 JDK VERSION: Oracle OpenJDK 18.0.1
 JAVAFX VERSION: JavaFX 18.0.1
